@@ -211,4 +211,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 <!-- [donbarbos](https://github.com/donBarbos): donbarbos@proton.me -->
 
-[owner](https://github.com/otaboyevsardorbek1/telegram-bot-template): Otaboyev Sardorbek
+[owner](https://github.com/otaboyevsardorbek1/): Otaboyev Sardorbek

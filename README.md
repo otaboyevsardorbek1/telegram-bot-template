@@ -206,10 +206,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. `Push` your `commits` to the `branch`
 5. Submit a `pull request`
 
-## 📝 License
-
-Distributed under the LGPL-3.0 license. See [`LICENSE`](./LICENSE.md) for more information.
 
 ## 📢 Contact
 
-[donbarbos](https://github.com/donBarbos): donbarbos@proton.me
+<!-- [donbarbos](https://github.com/donBarbos): donbarbos@proton.me -->
+
+[owner](https://github.com/otaboyevsardorbek1/telegram-bot-template): Otaboyev Sardorbek
